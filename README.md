@@ -1,11 +1,13 @@
 Hi there 👋, I'm Belayhun Arage!
-Welcome to my GitHub profile. I'm a passionate Software Engineer based in Addis Ababa, Ethiopia, with a focus on creating innovative solutions to optimize organizational efficiency. My expertise spans multi-platform responsive web design, e-commerce development, and robust server-side applications.
+
+Welcome to my GitHub profile. I'm a passionate Software Engineer based in Addis Ababa, Ethiopia, with a focus on creating innovative solutions to optimize organizational efficiency. My expertise spans multi-platform responsive web design, e-commerce development, robust server-side applications, and building intelligent AI Agents and RAG (Retrieval-Augmented Generation) experiences using Vector Databases.
 
 💻 Technical Skills:
 Programming Languages: JavaScript(ES6+), Typescript, Java, Python(3+).
 Frontend Development: Vue, Nuxt, React, Angular, Flutter, Electron.
 Backend Development: Node.js, Golang, Ruby on Rails, and NestJS.
-Database Management: PostgreSQL, MySQL, and MongoDB.
+Database & AI: PostgreSQL, Firebase, MongoDB, ChromaDB (Vector Search)
+
 
 🌐 Connect with Me:
 Linkedin: https://www.linkedin.com/in/belayhun-arage/
