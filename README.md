@@ -4,8 +4,8 @@ Welcome to my GitHub profile. I'm a passionate Software Engineer based in Addis 
 
 💻 Technical Skills:
 Programming Languages: JavaScript(ES6+), Typescript, Java, Python(3+).
-Frontend Development: Vue, Nuxt, React, Angular, Flutter, Electron.
-Backend Development: Node.js, Golang, Ruby on Rails, and NestJS.
+Frontend Development: Vue, Flutter.
+Backend Development: Golang, Node.js.
 Database & AI: PostgreSQL, Firebase, MongoDB, ChromaDB (Vector Search)
 
 
